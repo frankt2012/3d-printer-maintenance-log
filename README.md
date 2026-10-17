@@ -29,3 +29,7 @@ The suggested intervals are general starting points, not manufacturer schedules.
 ## Fonts
 
 The page loads Barlow Condensed, IBM Plex Sans and IBM Plex Mono from Google Fonts. Without an internet connection it falls back to your system fonts and still works.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
